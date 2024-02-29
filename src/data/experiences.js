@@ -1,4 +1,4 @@
-import accenture from "../assets/images/acc.png.png";
+import accenture from "../assets/images/accen.png";
 import trc from "../assets/images/trc.png";
 
 
