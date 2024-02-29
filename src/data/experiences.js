@@ -1,5 +1,5 @@
 import accenture from "../assets/images/accen.png";
-import trc from "../assets/images/trc.png";
+import trc from "../assets/images/thad.png";
 
 
 import { blue, green, pink, yellow } from "../utils";
