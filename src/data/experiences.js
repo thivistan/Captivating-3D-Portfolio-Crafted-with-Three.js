@@ -15,7 +15,7 @@ export const experiences = [
     color: "blue",
   },
 
-  {
+  
     {
     logo: accenture,
     name: "Accenture",
